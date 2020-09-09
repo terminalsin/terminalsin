@@ -4,4 +4,3 @@ Heya! I'm Thibaut, also known as Ghast/TerminalSin. I'm a 'programmer' but mostl
 I also like concurrency. I will do anything to escape using Python. I did some memes in the past. 
 
 To contact me, refer to either to my discord (Ghast#0001) or my regular contact email (support@ghast.cc)
-Adding Public PGP key soon
