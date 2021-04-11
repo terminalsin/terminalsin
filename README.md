@@ -1,6 +1,6 @@
 # Hey there 👋
 
-Blabla bio I'm Thibaut, I'm 16 and I do nerdy stuff. To contact me send me an email at mastermind@ghast.cc if you like being oldschool or contact me on Discord/Telegram at Ghast#0001 / @terminalsin. If you're sending sensitive stuff here's my PGP key:
+Blabla bio I'm Thibaut, I'm 17 and I do nerdy stuff. To contact me send me an email at mastermind@ghast.cc if you like being oldschool or contact me on Discord/Telegram at Ghast#0001 / @terminalsin. If you're sending sensitive stuff here's my PGP key:
 
 
 ```rsa
