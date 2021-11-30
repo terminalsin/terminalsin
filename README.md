@@ -1,3 +1,3 @@
-Bio's are like a diet; you change your mind about them every day 
+Tic toc you wasted time reading a bio about a clock
 
 discord: Ghast#0001
